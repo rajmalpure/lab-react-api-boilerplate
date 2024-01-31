@@ -1,0 +1,20 @@
+.author-name{
+    font-style: italic;
+    font-weight: bold;
+    font-size: 16px;
+    margin-top:12px;
+}
+
+.des{
+    display: flex;
+    margin-top: 42px;
+    font-size: 16px;
+    text-align: start;
+    margin-left: 20px;
+}
+
+.container{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
